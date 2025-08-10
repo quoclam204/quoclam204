@@ -1,17 +1,30 @@
 <!-- Profile README – Nguyễn Lê Quốc Lâm -->
 <!-- Gợi ý: Pin 6 repo tiêu biểu lên profile để phần Projects tự đẹp hơn -->
 
-<div align="center">
+<div align="center" style="transform: translateY(-10px);">
 
-# Hi 👋, I'm **Nguyễn Lê Quốc Lâm**<img src="https://media.tenor.com/hSyU49CIM7AAAAAj/vietnam-vie.gif" alt="Vietnam VIE" width="65">
-**Backend Developer in Training @ Dalat University | Future Backend Engineer**
-Đà Lạt, Việt Nam
+<h1>Hi 👋, I'm <strong>Nguyễn Lê Quốc Lâm</strong>
+  <img src="https://media.tenor.com/hSyU49CIM7AAAAAj/vietnam-vie.gif" alt="Vietnam VIE" width="65">
+</h1>
 
-<img src="https://media.tenor.com/mHXNv7TSCLMAAAAj/detective-conan.gif" alt="Detective Conan Skateboard" width="200">
+<p><strong>Backend Developer in Training @ Dalat University | Future Backend Engineer</strong><br/>Đà Lạt, Việt Nam</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=quoclam204&label=Views&color=0e75b6&style=flat)](https://github.com/quoclam204)
-[![GitHub Followers](https://img.shields.io/github/followers/quoclam204?style=flat)](https://github.com/quoclam204?tab=followers)
-[![Stars](https://img.shields.io/github/stars/quoclam204?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/quoclam204?tab=repositories)
+<img src="https://media.tenor.com/mHXNv7TSCLMAAAAj/detective-conan.gif"
+     alt="Detective Conan Skateboard"
+     height="170"
+     style="vertical-align:-6px;">
+
+<p>
+  <a href="https://github.com/quoclam204">
+    <img src="https://komarev.com/ghpvc/?username=quoclam204&label=Views&color=0e75b6&style=flat" alt="Views">
+  </a>
+  <a href="https://github.com/quoclam204?tab=followers">
+    <img src="https://img.shields.io/github/followers/quoclam204?style=flat" alt="Followers">
+  </a>
+  <a href="https://github.com/quoclam204?tab=repositories">
+    <img src="https://img.shields.io/github/stars/quoclam204?affiliations=OWNER%2CCOLLABORATOR" alt="Stars">
+  </a>
+</p>
 
 </div>
 
