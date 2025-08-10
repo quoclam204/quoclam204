@@ -4,8 +4,7 @@
 <div align="center">
 
 # Hi 👋, I'm **Nguyễn Lê Quốc Lâm**<img src="https://media.tenor.com/hSyU49CIM7AAAAAj/vietnam-vie.gif" alt="Vietnam VIE" width="65">
-**Backend Developer in Training @ Dalat University | Future Backend Engineer**
-Đà Lạt, Việt Nam
+**Backend Developer in Training @ Dalat University | Future Backend Engineer Da Lat, Vietnam**
 
 <img src="https://media.tenor.com/mHXNv7TSCLMAAAAj/detective-conan.gif" alt="Detective Conan Skateboard" width="200">
 
