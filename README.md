@@ -7,11 +7,11 @@
 **Backend Developer in Training @ Dalat University | Future Backend Engineer**
 Đà Lạt, Việt Nam
 
+<img src="https://media.tenor.com/mHXNv7TSCLMAAAAj/detective-conan.gif" alt="Detective Conan Skateboard" width="200">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=quoclam204&label=Views&color=0e75b6&style=flat)](https://github.com/quoclam204)
 [![GitHub Followers](https://img.shields.io/github/followers/quoclam204?style=flat)](https://github.com/quoclam204?tab=followers)
 [![Stars](https://img.shields.io/github/stars/quoclam204?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/quoclam204?tab=repositories)
-
-<img src="https://media.tenor.com/mHXNv7TSCLMAAAAj/detective-conan.gif" alt="Detective Conan Skateboard" width="200">
 
 </div>
 
