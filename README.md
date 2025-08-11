@@ -75,7 +75,12 @@ Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** stud
 </div>
 
 ## How to reach me
-- **Email:** nguyenlequoclam@gmail.com  
+<p align="left" style="margin-left: 15px;">
+  <a href="mailto:nguyenlequoclam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
+
 
 ---
 
