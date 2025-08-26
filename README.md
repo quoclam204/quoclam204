@@ -65,12 +65,7 @@ Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** stud
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoclam204&layout=compact&hide_border=true&langs_count=8&theme=transparent"
   alt="Top Languages" height="150"
 />
-<br/>
-<img
-  src="https://streak-stats.demolab.com?user=quoclam204&hide_border=true&theme=transparent"
-  alt="GitHub Streak" height="170"
-/>
-<br/>
+
 
 </div>
 
