@@ -25,10 +25,10 @@
 
 </div>
 
-## About me
+## 👨‍💻 About me
 Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** student (majoring in **Software Engineering**), cohort **K46** at **Dalat University**. 
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 <p align="left">
   <!-- 🧠 Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@ Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** stud
 </p>
 
 
-## GitHub Stats
+## ⭐ GitHub Stats
 <div align="center">
 
 <img
@@ -97,7 +97,7 @@ Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** stud
 
 </div>
 
-## How to reach me
+## 📫 How to reach me
 - **Email:** nguyenlequoclam@gmail.com  
 
 
