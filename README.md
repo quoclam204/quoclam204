@@ -100,7 +100,9 @@ Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** stud
 ## 📫 How to reach me
 - **Email:** nguyenlequoclam@gmail.com  
 
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua" width="100%" />
+</p>
 
 > _“Code is design in motion.”_ – Keep learning, keep shipping.
+
