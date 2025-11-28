@@ -3,7 +3,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <div align="center">
 
+<!--
 # Welcome To My GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+**Backend Developer in Training @ Dalat University | Future Backend Engineer Da Lat, Vietnam**
+-->
+
+# Welcome To My GitHub Profile 👋
 **Backend Developer in Training @ Dalat University | Future Backend Engineer Da Lat, Vietnam**
 
 
