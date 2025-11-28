@@ -1,22 +1,27 @@
 <!-- Profile README – Nguyễn Lê Quốc Lâm -->
 <!-- Gợi ý: Pin 6 repo tiêu biểu lên profile để phần Projects tự đẹp hơn -->
-
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <div align="center">
 
 # Welcome To My GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 **Backend Developer in Training @ Dalat University | Future Backend Engineer Da Lat, Vietnam**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+ <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="center"> 
+
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> -->
 
 
+<!--
 [![Profile Views](https://komarev.com/ghpvc/?username=quoclam204&label=Views&color=0e75b6&style=flat)](https://github.com/quoclam204)
 [![GitHub Followers](https://img.shields.io/github/followers/quoclam204?style=flat)](https://github.com/quoclam204?tab=followers)
 [![Stars](https://img.shields.io/github/stars/quoclam204?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/quoclam204?tab=repositories)
+-->
 
 </div>
 
 ## About me
-Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** student (majoring in **Software Engineering**), cohort **K46** at **Dalat University**.
+Hello everyone, I’m **Nguyen Le Quoc Lam**, an **Information Technology** student (majoring in **Software Engineering**), cohort **K46** at **Dalat University**. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
