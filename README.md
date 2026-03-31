@@ -6,7 +6,9 @@
 
 </div>
 
-## 💫 About me
+<div>
+
+  ## 💫 About me
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -75,3 +77,6 @@
 </p>
 
 > _“Code is design in motion.”_ – Keep learning, keep shipping.
+
+</div>
+
