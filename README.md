@@ -2,7 +2,7 @@
 <div align="center">
 
 # Welcome To My GitHub Profile 👋
-**Backend Developer in Training @ Dalat University | Future Backend Engineer Da Lat, Vietnam**
+**Backend Developer in Training @ Dalat University | Aspiring Backend Engineer Da Lat, Vietnam**
 
 </div>
 
